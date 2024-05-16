@@ -4,6 +4,8 @@
 - 📫 dmataguerra@outlook.com
 - ⚡ Fun fact: I'm working on stopping being a skinny bitch.
 
+- [![My Skills](https://skillicons.dev/icons?i=cpp,figma,flask,git,github,java,latex,mysql,obsidian)](https://skillicons.dev)
+
 <!---
 dmataguerra/dmataguerra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
