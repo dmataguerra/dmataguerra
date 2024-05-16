@@ -1,4 +1,4 @@
-- 👋 Hi, I’m David.
+- 👋 Hi There.
 - 👀 I’m interested in software development, videogames, fitnessworld & so many other topics about technologies.
 - 🌱 I’m currently learning
 
