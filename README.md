@@ -4,10 +4,6 @@
 
 
   [![My Skills](https://skillicons.dev/icons?i=cpp,figma,flask,git,github,java,latex,mysql,obsidian)](https://skillicons.dev)
-<<<<<<< patch-1
-
-=======
-  +
 >>>>>>> main
 & also English. 
 - 📫 dmataguerra@outlook.com
