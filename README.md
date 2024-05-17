@@ -4,7 +4,7 @@
 
 
   [![My Skills](https://skillicons.dev/icons?i=cpp,figma,flask,git,github,java,latex,mysql,obsidian)](https://skillicons.dev)
->>>>>>> main
+>>>>>>> 
 & also English. 
 - 📫 dmataguerra@outlook.com
 - ⚡ Fun fact: I'm working on stopping being a skinny bitch.
