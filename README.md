@@ -1,13 +1,11 @@
-- 👋 Hi There.
+- 👋 Hi There!
 - 👀 I’m interested in software development, videogames, fitnessworld & so many other topics about technologies.
 - 🌱 I’m currently learning
 
 
-  [![My Skills](https://skillicons.dev/icons?i=cpp,figma,flask,git,github,java,latex,mysql,obsidian)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cpp,java,php,r,neovim,git,latex)](https://skillicons.dev)
 >>>>>>> 
-& also English. 
 - 📫 dmataguerra@outlook.com
-- ⚡ Fun fact: I'm working on stopping being a skinny bitch.
 
 
 <!---
