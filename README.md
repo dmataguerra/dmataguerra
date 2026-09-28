@@ -65,7 +65,6 @@ Right now, I'm growing my skills in **data pipelines, microservices, and AWS** w
 
 **Interested in backend, database, or data engineering internships?**  
 [Let's connect on LinkedIn](https://www.linkedin.com/in/david-mata-guerra-28949b290/) · [Send me an email](mailto:dmataguerra@outlook.com) · [Explore my repositories](https://github.com/dmataguerra?tab=repositories)
-  [![My Skills](https://skillicons.dev/icons?i=cpp,java,php,r,neovim,git,latex)](https://skillicons.dev)
 </div>
 
 
