@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm David Mata Guerra 👋
+# Hi, I'm David Mata Guerra :)
 
 ### Software Engineering student · Backend & data systems
 
@@ -14,21 +14,12 @@ I build practical software for the people and processes behind it — from APIs 
 
 ---
 
-### A little about me
-
-- 🎓 Studying **Software Engineering** at the **Universidad Autónoma de Querétaro**, with an expected graduation in **December 2027**.
-- 🏆 Led **SignBridge**, the winning project at the **2026 Trojan Hackathon**.
-- 🧩 Most interested in **backend engineering, database design, data engineering, and cloud services**.
-- 🌎 Based between **Querétaro, Mexico, and Dallas, Texas**. I work in **English and Spanish**.
-
-### Selected work
+### Work
 
 | Project | What I built | My focus |
 | :--- | :--- | :--- |
-| **Comal++** ☕ | A café queue system with a cashier interface, a public display, turn announcements, and local data storage. | React · NestJS · SQLite · product design |
-| **SignBridge** 🤟 | A real-time sign-language translation platform developed during a 36-hour hackathon. **2026 Trojan Hackathon winner.** | Team lead · backend architecture · REST APIs · computer vision integration |
-| **ClearRoute** 🚛 | A smart waste-collection concept that uses container fill-level sensing and dynamic truck routing. | Team lead · system architecture · IoT · backend |
-| **Ras-Track** 📦 | A logistics and package-tracking system combining RFID identification and vehicle tracking. | Backend collaboration · IoT integration |
+| **Comal++**  | A café queue system with a cashier interface, a public display, turn announcements, and local data storage. | React · NestJS · SQLite · product design |
+| **SignBridge**  | A real-time sign-language translation platform developed during a 36-hour hackathon. **2026 Trojan Hackathon winner.** | Team lead · backend architecture · REST APIs · computer vision integration |
 
 ### Tools I work with
 
@@ -57,14 +48,9 @@ I build practical software for the people and processes behind it — from APIs 
 
 Previously, I worked as a **Junior Developer at Academic Services**, developing a web application for academic requests and deploying containerized services with Docker. I also hold the **Google Data Analytics Professional Certificate**.
 
-Right now, I'm growing my skills in **data pipelines, microservices, and AWS** while building software that connects reliable systems with useful experiences.
-
 ---
 
 <div align="center">
-
-**Interested in backend, database, or data engineering internships?**  
-[Let's connect on LinkedIn](https://www.linkedin.com/in/david-mata-guerra-28949b290/) · [Send me an email](mailto:dmataguerra@outlook.com) · [Explore my repositories](https://github.com/dmataguerra?tab=repositories)
 </div>
 
 
